@@ -1,3 +1,8 @@
+'''
+based on pyeit/visual/plot.py file 
+needs to be in the same folder as the latter
+'''
+
 import os
 import numpy as np
 import matplotlib.pyplot as plt
