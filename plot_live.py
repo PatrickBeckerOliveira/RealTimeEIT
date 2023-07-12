@@ -1,3 +1,7 @@
+'''
+based on examples/eit_external_mesh.py file
+'''
+
 # pylint: disable=no-member, invalid-name
 # pylint: disable=too-many-arguments, too-many-locals
 """plot EIT data"""
